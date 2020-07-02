@@ -1,0 +1,107 @@
+body{margin: 0px;
+    font-family: 'Oswald', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+    font-weight: 500;
+}
+.name-highlight{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left:2%;
+}
+.half-width img{
+    width: 100%;
+    padding-bottom: 150px;
+}
+.top-banner{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+}
+section{height:800px;
+
+
+}
+.link-button{
+     text-decoration: none;
+     background-image: linear-gradient(45deg, lightsalmon,tomato);
+     padding: 10px 20px;
+     border-radius: 5px;
+     color: white;
+     font-weight: 700;
+
+     
+}
+.link-button:hover{
+    background-image: linear-gradient(45deg,yellow,blue);
+    
+}
+.dream-area{
+    background-image: url("images/biography-bg.png");
+    }
+#half-width2{
+    width:30%;
+    float: left;
+    margin-left: 0;
+    padding-left: 2%;
+    margin-top: 10%;
+ 
+      
+}
+#half-width3{
+    width:30%;
+    float: left;
+    margin-left: 0;
+    padding-right: 2%;
+    margin-top: 10%;
+}
+#half-width4{
+    width:30%;
+    float: left;
+    margin-left: 0;
+    padding-right: 2%;
+    margin-top: 10%;
+}
+#half-width2 img{
+    width: 90%;
+    padding-bottom: 10%;
+    padding-left: 15%;
+}
+#half-width3 img{
+    width: 90%;
+    padding-bottom: 10%;
+    padding-left:16%;}
+#half-width4 img{
+    width: 90%;
+    padding-bottom: 10%;
+    padding-right: 30%;}
+
+.putter{
+    background-image: linear-gradient(45deg, lightsalmon,tomato);
+    padding: 15px 20px ;
+    border-radius: 8px;
+    color: white;
+    font-weight: 700;
+    margin-left: 15% ;
+    margin-right: 15%;
+ }
+ footer{ 
+     padding-top: 8%;
+     font-size: 15px;
+     padding-bottom: 2%;
+
+ }
+ .latest-img{
+     background-image: url("images/latest-work-bg.png");
+
+ }
+ .client-img{
+     background-image: url("images/footer-bg.png");
+ }
